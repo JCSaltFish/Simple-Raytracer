@@ -1,8 +1,10 @@
 SIMPLE RAYTRACER USING OPENMP ACCELERATION
+
 Jed Wang
+
 jcsaltfish@gmail.com
 
-![image] (https://github.com/JCSaltFish/Simple-Raytracer/blob/master/img/img01.png)
+![image](https://github.com/JCSaltFish/Simple-Raytracer/blob/master/img/img01.png)
 
 - Only supports for specular reflections.
 
